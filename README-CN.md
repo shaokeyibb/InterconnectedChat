@@ -38,7 +38,7 @@ interconnectedChat.allowedServerMame=allow1,allow2
 4.`interconnectedChat.allowedServerMame` 代表允许的服务器名单，仅当 `interconnectedChat.enableServerNameWhitelist` 开启时生效，使用 `,`
 作为服务器名称分隔符
 
-5. [部署和配置 Bukkit 插件](https://github.com/shaokeyibb/InterConnectedChatPlugin/README-CN.md)
+5. [部署和配置 Bukkit 插件](https://github.com/shaokeyibb/InterconnectedChatPlugin/blob/master/README.md)
 
 ## 一些不足
 
